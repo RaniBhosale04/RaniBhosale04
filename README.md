@@ -10,13 +10,13 @@
 
 ---
 
-# 👩‍💻 About Me
+#  About Me
 
-🎓 Aspiring **Data Analyst** with a strong passion for transforming data into meaningful insights.
+ Aspiring **Data Analyst** with a strong passion for transforming data into meaningful insights.
 
-💡 I enjoy building real-world Machine Learning applications, data analytics dashboards, and AI-powered solutions that solve practical business problems.
+I enjoy building real-world Machine Learning applications, data analytics dashboards, and AI-powered solutions that solve practical business problems.
 
-🌱 **Currently Learning**
+ **Currently Learning**
 - Advanced SQL
 - Machine Learning
 - Deep Learning
@@ -24,40 +24,40 @@
 - Generative AI
 - Data Engineering
 
-🎯 **Career Objective**
+**Career Objective**
 
 To work as a **Data Analyst/Data Scientist** where I can leverage my analytical skills, programming knowledge, and passion for data-driven decision making.
 
 ---
 
-# 🚀 Technical Skills
+#  Technical Skills
 
-### 💻 Programming
+### Programming
 - Python
 - SQL
 
-### 📊 Data Analytics
+###  Data Analytics
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Dashboard Development
 - Statistical Analysis
 
-### 🤖 Machine Learning
+###  Machine Learning
 - Regression
 - Classification
 - Clustering
 - Feature Engineering
 - Model Evaluation
 
-### 📚 Python Libraries
+###  Python Libraries
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Scikit-Learn
 
-### 🛠 Tools
+###  Tools
 - Power BI
 - Microsoft Excel
 - Git
@@ -67,7 +67,7 @@ To work as a **Data Analyst/Data Scientist** where I can leverage my analytical 
 
 ---
 
-# 💡 What Defines Me
+# What Defines Me
 
 ✔ Strong foundation in Data Analytics & Machine Learning
 
@@ -87,7 +87,7 @@ To work as a **Data Analyst/Data Scientist** where I can leverage my analytical 
 
 ---
 
-# 🚀 What I'm Building
+# What I'm Building
 
 - End-to-End Machine Learning Applications
 - Interactive Power BI Dashboards
@@ -98,47 +98,47 @@ To work as a **Data Analyst/Data Scientist** where I can leverage my analytical 
 
 ---
 
-# 📂 Featured Projects
+# Featured Projects
 
-## 📈 Student Academic Performance Prediction
+##  Student Academic Performance Prediction
 - Predicts student academic performance using Machine Learning.
 - Python, Scikit-Learn, Pandas
 
 ---
 
-## 😊 Sentiment Analysis
+##  Sentiment Analysis
 - NLP-based sentiment analysis application.
 - Text preprocessing and sentiment prediction.
 
 ---
 
-## 🌐 Social Network Analysis
+##  Social Network Analysis
 - Social network data analysis and visualization.
 - Graph analysis and relationship insights.
 
 ---
 
-## 👥 Social Network App
+## Social Network App
 - Social networking application built using Python.
 
 ---
 
-## ⚡ Performance Prediction
+## Performance Prediction
 - Performance prediction using Machine Learning algorithms.
 
 ---
 
-## 🤖 Predict Model
+## Predict Model
 - General-purpose prediction model using supervised learning.
 
 ---
 
-## 🧠 AI Model
+## AI Model
 - End-to-End Machine Learning model deployment project.
 
 ---
 
-# 📊 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
 
@@ -156,7 +156,7 @@ To work as a **Data Analyst/Data Scientist** where I can leverage my analytical 
 
 ---
 
-# 🏆 GitHub Achievements
+#  GitHub Achievements
 
 - Machine Learning Projects
 - Data Analytics Projects
@@ -167,7 +167,7 @@ To work as a **Data Analyst/Data Scientist** where I can leverage my analytical 
 
 ---
 
-# 🌱 Currently Exploring
+#  Currently Exploring
 
 - Deep Learning
 - Large Language Models (LLMs)
@@ -178,22 +178,22 @@ To work as a **Data Analyst/Data Scientist** where I can leverage my analytical 
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
-📧 Email: **your-email@gmail.com**
+Email: **ranibhosale0004@gmail.com**
 
-💼 LinkedIn:
+LinkedIn:
 **https://linkedin.com/in/rani-bhosale-323679292**
 
-🌐 Portfolio:
+ Portfolio:
 **https://raninbhosale.lovable.app**
 
-🐙 GitHub:
+ GitHub:
 **https://github.com/RaniBhosale**
 
 ---
 
-# 📈 Profile Visitors
+# Profile Visitors
 
 <p align="center">
 
